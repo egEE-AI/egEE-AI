@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/egEE-AI/egEE-AI/main/egee-github-cover.jpg" alt="egEE in the forest workshop with red origami cranes" width="100%">
+
 <h1 align="center">Hey, I’m egEE 👋</h1>
 <p align="center">I build with AI to find out which of my ideas work in practice.</p>
 <p align="center">
