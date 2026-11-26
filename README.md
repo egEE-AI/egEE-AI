@@ -1,6 +1,9 @@
 <h1 align="center">Hey, I’m egEE 👋</h1>
-
 <p align="center">I build with AI to find out which of my ideas work in practice.</p>
+<p align="center">
+  <img alt="building with Claude" src="https://img.shields.io/badge/building_with-Claude-BB6448?style=flat-square&amp;labelColor=343940">
+  <img alt="building with ChatGPT" src="https://img.shields.io/badge/building_with-ChatGPT-167964?style=flat-square&amp;labelColor=343940">
+</p>
 
 <table>
   <tr>
